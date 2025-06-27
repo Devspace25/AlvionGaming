@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="33.3177mm" height="33.3177mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 79.65 79.65"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="929" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Sentex">
+		<font-face-src>
+			<font-face-name name="Sentex Regular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="a" horiz-adv-x="929" d="M105 0c-10.0014,0 -16.6679,1.66745 -19.9995,4.99907 -3.33489,3.33489 -4.99907,10.0014 -4.99907,19.9995l0 515.002c0,21.3328 4.99907,38.3316 14.9972,50.9996 10.0014,13.333 22.1682,26.499 36.5004,39.5011 14.3355,12.9989 29.8339,24.6645 46.5018,35 16.6646,10.3323 34.4988,18.6662 53.4992,24.9986 19.0004,6.33237 38.4987,9.50019 58.5015,9.50019l534.998 0c10.0014,0 16.6679,-1.66745 19.9995,-4.99907 3.33489,-3.33489 4.99907,-10.0014 4.99907,-20.0028l0 -650c0,-9.99813 -1.66417,-16.6646 -4.99907,-19.9995 -3.33162,-3.33162 -9.99813,-4.99907 -19.9995,-4.99907l-140 0c-10.0014,0 -16.6679,1.66745 -19.9995,4.99907 -3.33489,3.33489 -4.99907,10.0014 -4.99907,19.9995l0 153.002c0,9.33312 -3.00075,13.998 -9.00225,13.998 -4.66492,0 -10.6664,-2.33246 -17.9979,-6.99738l-252.001 -170.001c-14.6663,-10.0014 -31.9993,-15.0005 -51.9988,-15.0005l-224.001 0zm164.999 176.998c0,-9.99813 3.00075,-14.9972 9.00225,-14.9972 3.33162,0 9.33312,2.66661 17.9979,7.99982l341.001 230c10.6664,7.33153 16.9988,15.9996 19.0004,25.9978 1.99832,10.0014 3.00075,20.0028 3.00075,30.001l0 44.0023c0,9.99813 -1.66745,16.6646 -5.00234,19.9995 -3.33162,3.33162 -9.99813,4.99907 -19.9995,4.99907l-260.001 0c-15.9996,0 -29.6668,-3.33489 -40.9982,-10.0014l-34.0009 -20.9987c-19.9995,-12.668 -30.001,-30.666 -30.001,-54.0004l0 -263.001z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Sentex";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil1 {fill:black}
+    .fil0 {fill:#E0FF03}
+    .fnt0 {font-weight:normal;font-size:72.97px;font-family:'Sentex'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="39.82" cy="39.82" r="39.82"/>
+  <text x="5.89" y="65.36"  class="fil1 fnt0">a</text>
+ </g>
+</svg>
