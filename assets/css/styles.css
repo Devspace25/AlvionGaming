@@ -1,12 +1,14 @@
 /*=============== GOOGLE FONTS ===============*/
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
-
 @font-face {
-  font-family: 'sentex';
+  font-family: 'mifuente';
   src: url('fonts/Sentex-Regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+
 
 /*=============== VARIABLES CSS ===============*/
 :root {
@@ -141,7 +143,7 @@ img {
   font-size: var(--h2-font-size);
   font-weight: var(--font-semi-bold);
   color: var(--verde-color);
-  font-family: 'sentex';
+  font-family: 'mifuente';
 }
 
 .nav__toggle,
@@ -506,7 +508,7 @@ img {
   font-size: var(--h2-font-size);
   font-weight: var(--font-semi-bold);
   color: var(--verde-color);
-  font-family: sentex;
+  font-family: 'mifuente';
 }
 
 
