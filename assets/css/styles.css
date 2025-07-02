@@ -364,6 +364,10 @@ img {
   margin-bottom: 2.5rem;
 }
 
+.button_about{
+    margin-top: 1.5rem;
+  }
+
 .about__img{
   width: 280px;
   justify-self: center;
@@ -742,6 +746,8 @@ img {
     bottom: 0;
     align-content: center;
   }
+
+
 
   .sponsor__container{
     grid-template-columns: repeat(4, max-content);
