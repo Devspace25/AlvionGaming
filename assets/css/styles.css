@@ -801,18 +801,21 @@ img {
     position: relative;
   }
 
+
+
   .home__img{
-    width: 1200px;
+    width: 850px;
   }
 
   .home__title{
     font-size: var(--biggest-font-size);
-    top: -6.5rem;
+    top: -1.5rem;
     column-gap: 1rem;
   }
 
   .home__tooltip{
-    right: 6rem;
+    right: 6.7rem;
+    top: 3rem;
 
   }
 
