@@ -1,9 +1,10 @@
 /*=============== GOOGLE FONTS ===============*/
 @font-face {
-  font-family: 'Mifuente';
-  src: url('../../fonts/Sentex-Regular.ttf') format('ttf');
-  font-weight: normal;
-  font-style: normal;
+  font-family:'Mifuente';
+  src: url('../../fonts/Sentex-Regular.woff2') format('woff2'),
+       url('../../fonts/Sentex-Regular.woff') format('woff'),
+       url('../../fonts/Sentex-Regular.ttf') format('truetype');
+  font-display: swap
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
