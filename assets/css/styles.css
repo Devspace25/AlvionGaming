@@ -810,13 +810,13 @@ img {
   }
 
   .glass{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
   }
 
   .glass:hover{
-    width: 200px;
-    height: 220px;
+    width: 100px;
+    height: 120px;
   }
 
   .glass p{
