@@ -412,7 +412,7 @@ img {
 
 
 
-/* contenedor glass */
+/* =========================== contenedor glass ==================*/
 
 .contenedor__glass{
   display: flex;
@@ -504,7 +504,7 @@ img {
 }
 
 
-
+/* ================================ END GLASS ======================================= */
 
 /* Swiper class */
 .swiper-slide-active,
@@ -807,6 +807,16 @@ img {
   .sponsor__container{
     gap: 4rem 2rem;
 
+  }
+
+  .glass{
+    width: 200px;
+    height: 200px;
+  }
+
+  .glass:hover{
+    width: 200px;
+    height: 200px;
   }
 }
 
