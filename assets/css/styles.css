@@ -591,11 +591,12 @@ img {
 
 .sponsor__img:hover{
   transform: scale(1.1);
-
 }
 
 .sponsor__container{
-  grid-template-columns: repeat(2, max-content);
+  /* grid-template-columns: repeat(2, max-content); */
+  display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   gap: 5rem  4rem;
