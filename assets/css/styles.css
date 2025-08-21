@@ -861,6 +861,33 @@ img {
     justify-content: initial;
   }
 
+   .glass{
+    width: 200px;
+    height: 200px;
+  }
+
+  .glass:hover{
+    width: 200px;
+    height: 220px;
+  }
+
+  .glass p{
+    font-size: 18px;
+  }
+
+  .glass h2{
+    font-size: 20px;
+  }
+
+  .glass h3{
+    font-size: 16px;
+    margin-top: 2px;
+  }
+
+  .footer__glass{
+    margin-top: 2px;
+  }
+
 }
 
 
