@@ -758,7 +758,7 @@ img {
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 390px){
   .container{
     margin-inline: 1rem;
   }
@@ -1119,7 +1119,15 @@ img {
     right: 3rem;
   }
 
+  .glass{
+    height: 230px;
+  width: 380px;
+  }
 
+  .glass:hover{
+    height: 320px;
+  width: 360px;
+  }
 
 
 
