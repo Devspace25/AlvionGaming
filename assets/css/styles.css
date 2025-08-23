@@ -414,7 +414,7 @@ img {
 
 /* =========================== contenedor glass ==================*/
 
-.contenedor__glass{
+/* .contenedor__glass{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -501,7 +501,7 @@ img {
 
 .footer__glass button:hover{
   box-shadow: 0 12px 32px hsl(67, 100%, 50%, .12);
-}
+} */
 
 
 /* ================================ END GLASS ======================================= */
