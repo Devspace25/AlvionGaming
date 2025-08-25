@@ -666,7 +666,7 @@ img {
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
-@media screen and (max-width: 390px){
+@media screen and (max-width: 420px){
   .container{
     margin-inline: 1rem;
   }
@@ -731,6 +731,10 @@ img {
   .about__container{
     grid-template-columns: 380px;
     justify-content: center;
+  }
+
+  .home__tooltip{
+    right: 6rem;
   }
 
   .footer__data{
