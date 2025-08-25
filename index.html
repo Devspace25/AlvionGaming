@@ -1,8 +1,23 @@
 <!DOCTYPE html>
-   <html lang="es">
+   <html lang="en">
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <meta name="description" content="Descubre audífonos, mouse, teclados magnéticos y mecánicos, y mouspads gaming de alto rendimiento. Equipamiento pro para gamers exigentes.">
+      <meta name="keywords" content="audífonos gaming, mouse gamer, teclados mecánicos, teclados magnéticos, mouspad RGB, accesorios para gamers">
+      <meta name="author" content="ALVION GAMING">
+      <meta property="og:title" content="ALVION GAMING | Equipamiento Pro para Gamers">
+      <meta property="og:description" content="Audífonos, mouse, teclados y mouspads diseñados para rendimiento extremo.">
+      <!-- <meta property="og:image" content="https://tusitio.com/img/banner-gaming.jpg"> -->
+      <meta property="og:url" content="https://alviongaming.com">
+      <meta property="og:type" content="website">
+
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="Alvion Gaming | Accesorios para Gamers">
+      <meta name="twitter:description" content="Audífonos, teclados mecánicos, mouse y mouspads para dominar el juego.">
+      <!-- <meta name="twitter:image" content="https://tusitio.com/img/banner-gaming.jpg"> -->
+
 
       <!--=============== FAVICON ===============-->
       <link rel="shortcut icon" href="assets/img/favicon.svg" type="image/x-icon">
@@ -15,6 +30,8 @@
 
       <!--=============== CSS ===============-->
       <link rel="stylesheet" href="assets/css/styles.css">
+
+      
 
       <title>ALVION - GAMING</title>
    </head>
@@ -62,22 +79,28 @@
          <section class="home section" id="home">
             <div class="home__container container grid">
                <div class="home__content">
-                  <img src="assets/img/teclado.png" alt="image" class="home__img">
+                  <img src="assets/img/home-balck.png" alt="image" class="home__img">
 
                   <h1 class="home__title">
                      <span>M</span>
-                     <span>6</span>
-                     <span>8</span>
+                     <span>V</span>
+                     <span>9</span>
                   </h1>
                   <div class="home__tooltip">
                      <img src="assets/img/tooltip-right.svg" alt="" class="home__tooltip-img">
-                     <span class="home__tooltip-text">Magnético</span>
+                     <span class="home__tooltip-text">Mchose V9 Pro</span>
                   </div>
 
                </div>
 
+               
 
-               <a href="https://wa.me/584129850946?text=Hola%20Vi%20un%20Teclado" target="_blank" class="home__button button">
+
+  
+
+
+
+               <a href="https://wa.me/584129850946?text=Hola%20quiero%20saber%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20productos%20gaming" target="_blank" class="home__button button">
                   COMPRAR AHORA<i class="ri-play-circle-fill"></i>
                </a>
 
@@ -126,7 +149,7 @@
                   
                </div>
 
-               <img src="assets/img/model-1-sombra.png" alt="image" class="about__img">
+               <img src="assets/img/model-1.png" alt="image" class="about__img">
             </div>
          </section>
 
@@ -282,7 +305,7 @@
          <section class="model section" id="model">
             
             <h2 class="section__title">
-               ESPECIFICACIONES DEL MODELO
+               EQUIPAMIENTO PRO PARA GAMERS
             </h2>
 
             <div class="model__container container grid">
@@ -309,7 +332,7 @@
 
                </div>
 
-               <a href="#" class="model__button button">
+               <a href="https://wa.me/584129850946?text=Hola%20quiero%20saber%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20productos%20gaming" class="model__button button">
                   COMPRAR AHORA <i class="ri-play-circle-fill"></i>
                </a>
 
@@ -325,12 +348,13 @@
                <!-- <img src="assets/img/sponsor-3.png" alt="image" class="sponsor__img">
                <img src="assets/img/sponsor-4.png" alt="image" class="sponsor__img"> -->
             </div>
+
          </section>
       </main>
 
       <!--==================== FOOTER ====================-->
       <footer class="footer">
-         <div class="footer__container container grid">
+         <div class="footer__container container grid" id="footer">
             <div>
                <a href="#" class="footer__logo">ALVION</a>
             </div>
@@ -370,7 +394,7 @@
                      </li>
 
                      <li>
-                        <a href="" class="footer__link">Email: info@alviongaming.com</a>
+                        <a onclick="copiarCorreo()" href="#footer" class="footer__link">Email: info@alviongaming.com</a>
                      </li>
 
                   </ul>
@@ -413,6 +437,19 @@
 
       <!--=============== SCROLLREVEAL ===============-->
       <script src="assets/js/scrollreveal.min.js"></script>
+
+      <!-- Script para copiar -->
+      <script>
+      function copiarCorreo() {
+      const correo = "jesus@email.com"; // ← Reemplaza con tu correo real
+      navigator.clipboard.writeText(correo).then(() => {
+         alert("¡Correo copiado al portapapeles!");
+      }).catch(err => {
+         alert("Hubo un error al copiar el correo.");
+         console.error(err);
+      });
+      }
+      </script>
 
       <!--=============== SWIPER JS ===============-->
       <script src="assets/js/swiper-bundle.min.js"></script>
